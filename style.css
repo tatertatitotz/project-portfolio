@@ -2,17 +2,17 @@
    LIGHT THEME — EDIT THESE 5
    ============================= */
 :root {
-  --bg: #e7cdcb;
+  --bg: #3d2832;
   /* page background */
-  --text: #180934;
+  --text: #dbecde;
   /* main text */
-  --surface: #fff7f0;
+  --surface: #5b4450;
   /* cards, boxes, list items */
-  --nav: #471852;
+  --nav: #1b1116;
   /* navbar (dark bar) */
-  --accent: #d54686;
+  --accent: #8ba561;
   /* links & primary buttons */
-  --hero: #fff1e8;
+  --hero: #5b4450;
   /* jumbotron/hero bg */
 }
 
@@ -107,7 +107,7 @@ a.btn {
 .btn-primary {
   background-color: var(--accent);
   border-color: var(--accent);
-  color: #fff;
+  color: #101010;
 }
 
 .btn-primary:hover {
